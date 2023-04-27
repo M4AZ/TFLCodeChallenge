@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.TFLCodeChallenge.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TFLCodeChallenge.RestClient/RoadStatus/RoadStatusClient.cs">
+    <Files>
+      <File FileName="TFLCodeChallenge.Console/RoadStatus.cs" Line="23" Column="1" />
+      <File FileName="TFLCodeChallenge.RestClient/RoadStatus/IRoadStatusClient.cs" Line="23" Column="64" />
+      <File FileName="TFLCodeChallenge.RestClient/RoadStatus/RoadStatusClient.cs" Line="16" Column="12" />
+      <File FileName="TFLCodeChallenge.RestClient/Http/IRestHttpClient.cs" Line="1" Column="1" />
+      <File FileName="TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" Line="182" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TFLCodeChallenge" expanded="True">
+            <Node name="TFLCodeChallenge.Console" expanded="True" />
+            <Node name="TFLCodeChallenge.RestClient" expanded="True">
+              <Node name="Http" expanded="True" />
+              <Node name="RoadStatus" expanded="True">
+                <Node name="RoadStatusClient.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" relfile="TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" line="159" column="1" />
+      <Breakpoint file="/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" relfile="TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" line="185" column="1" />
+      <Breakpoint file="/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge.Console/RoadStatus.cs" relfile="TFLCodeChallenge.Console/RoadStatus.cs" line="23" column="1" />
+      <Breakpoint file="/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge.Console/RoadStatus.cs" relfile="TFLCodeChallenge.Console/RoadStatus.cs" line="25" column="1" />
+      <Breakpoint file="/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" relfile="TFLCodeChallenge.RestClient/Http/RestHttpClient.cs" line="201" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

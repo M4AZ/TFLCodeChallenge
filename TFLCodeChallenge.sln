@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLCodeChallenge.Console", "TFLCodeChallenge.Console\TFLCodeChallenge.Console.csproj", "{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLCodeChallenge.Console.Tests", "TFLCodeChallenge.Console.Tests\TFLCodeChallenge.Console.Tests.csproj", "{C3E2F57B-A25C-4CDB-8E02-5814B058E1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLCodeChallenge.RestClient", "TFLCodeChallenge.RestClient\TFLCodeChallenge.RestClient.csproj", "{BD107D35-80B3-46D0-B1C7-324E06C02467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE644C79-DFEE-4BA2-82AE-54CA32536AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E2F57B-A25C-4CDB-8E02-5814B058E1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E2F57B-A25C-4CDB-8E02-5814B058E1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E2F57B-A25C-4CDB-8E02-5814B058E1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E2F57B-A25C-4CDB-8E02-5814B058E1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD107D35-80B3-46D0-B1C7-324E06C02467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD107D35-80B3-46D0-B1C7-324E06C02467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD107D35-80B3-46D0-B1C7-324E06C02467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD107D35-80B3-46D0-B1C7-324E06C02467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/bin/Debug/net6.0/TFLCodeChallenge
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/bin/Debug/net6.0/TFLCodeChallenge.deps.json
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/bin/Debug/net6.0/TFLCodeChallenge.runtimeconfig.json
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/bin/Debug/net6.0/TFLCodeChallenge.dll
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/bin/Debug/net6.0/TFLCodeChallenge.pdb
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.csproj.AssemblyReference.cache
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.AssemblyInfoInputs.cache
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.AssemblyInfo.cs
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.csproj.CoreCompileInputs.cache
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.dll
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/refint/TFLCodeChallenge.dll
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.pdb
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/TFLCodeChallenge.genruntimeconfig.cache
+/Users/devteam/Documents/MyOpenWork/TFLCodeChallenge/TFLCodeChallenge/obj/Debug/net6.0/ref/TFLCodeChallenge.dll
