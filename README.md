@@ -64,5 +64,5 @@ Navigate to the Xunit test project and execute dotnet test, Atternatively you ca
 
 ## Tools/Softwares Used 
 * MacBook Pro 2019 OS Ventura 13.1
-* Jetbrains Rider C# IDE 
+* Jetbrains Rider .NET IDE 
 
