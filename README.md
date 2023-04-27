@@ -1,6 +1,6 @@
 # TFLCodeChallenge
 
-A simple .NET Core 6.0 console app that displays the status of a given road.
+A simple .NET Core 6.0 console app that displays the status of a given road using TFL's Open API
 
 ## Some Important Notes
 * App Settings is included in the project to include API related settings, however while the solution uses AppId and AppKey it has not be tested as the keys are not available on the TFL open API website.
