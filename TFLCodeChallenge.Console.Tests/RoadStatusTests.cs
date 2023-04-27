@@ -63,6 +63,4 @@ public class RoadStatusTests
         result.Should().Be(1);
     }
     
-    
-
 }

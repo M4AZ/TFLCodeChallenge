@@ -23,8 +23,6 @@ public class RoadStatus : IRoadStatus
     {
         if (!String.IsNullOrEmpty(input) && !String.IsNullOrWhiteSpace(input))
         {
-            var con = _configuration;
-            
             var response = await _client.RoadStatus(input,_configuration.GetSection("ApiSettings:AppId").Value,_configuration.GetSection("ApiSettings:AppKey").Value);
 
             if (response.WasSuccessful())
