@@ -58,7 +58,6 @@ Navigate to the Xunit test project and execute dotnet test, Atternatively you ca
 * The program does not need to handle concurrency or multi-threading unless explicitly mentioned in the problem statement.
 * The developer has access to all necessary libraries and dependencies to solve the problem efficiently.
 * The developer is free to choose any testing framework to solve the problem.
-* The program does not need to handle security vulnerabilities or prevent against malicious input.
 * Authentication, Logging, Server side caching and other production server configurations is an integral part of an application however for the sake of time it is not included.
 
 
