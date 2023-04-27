@@ -48,6 +48,9 @@ Navigate to the console app project and execute dotnet run, Atternatively you ca
 
 Navigate to the Xunit test project and execute dotnet test, Atternatively you can directly run the tests using the IDE's run unit test option in the contextual menu. 
 
+### How to change AppId and AppKey? 
+In the root folder of the console app, you will find the appsettings.json file. Edit the ApiSettings.AppId property and ApiSettings.AppKey property to change the AppId and AppKey.
+
 
 # Assumptions
 
